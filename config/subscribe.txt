@@ -1,13 +1,20 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.bgithub.xyz/Guovin/iptv-database/master/result.txt
+https://raw.bgithub.xyz/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.bgithub.xyz/iptv-org/iptv/master/streams/cn.m3u
+https://raw.bgithub.xyz/suxuang/myIPTV/main/ipv6.m3u
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.bgithub.xyz/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.bgithub.xyz/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.bgithub.xyzfanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.bgithub.xyz/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.bgithub.xyz/vbskycn/iptv/master/tv/iptv4.txt
+https://m3u.ibert.me/fmml_ipv6.m3u
+https://live.kakaxi-1.ink/ipv4.txt
+https://www.254950134.xyz/final_streams.txt
+http://rihou.cc:555/gggg.nzk
+https://raw.kkgithub.com/netdoc1978/zhibo.txt/main/zhibo.txt
+ https://raw.bgithub.xyz/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt
+https://raw.bgithub.xyz/JinnLynn/iptv/dist/live-ipv4.txt
