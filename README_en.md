@@ -77,11 +77,11 @@ other features, under development...
 - Interface source:
 
 ```bash
-https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/gd/output/xp_result.m3u
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.m3u
 ```
 
 ```bash
-https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/gd/output/xp_result.txt
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.txt
 ```
 
 
