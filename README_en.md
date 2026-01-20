@@ -77,22 +77,13 @@ other features, under development...
 - Interface source:
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/gd/output/xp_result.m3u
 ```
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/gd/output/xp_result.txt
 ```
 
-or
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-```
 
 - Data source:
 
