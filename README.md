@@ -75,7 +75,7 @@
 - 接口源：
 
 ```bash
-https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.txt)
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.txt
 ```
 
 ```bash
