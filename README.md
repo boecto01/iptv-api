@@ -75,11 +75,11 @@
 - 接口源：
 
 ```bash
-https://gitee.com/xiao-ping2/iptv-api/raw/master/output/xp_result.txt
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.txt)
 ```
 
 ```bash
-https://gitee.com/xiao-ping2/iptv-api/raw/master/output/xp_result.txt
+https://ghfast.top/https://raw.githubusercontent.com/boecto01/iptv-api/refs/heads/master/output/xp_result.m3u
 ```
 
 
